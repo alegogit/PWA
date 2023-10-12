@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+		<title>PWA 👣</title>
+		<meta charset="UTF-8" />
+		<meta name="Description" content="Progressive Web Apps ♪ step-by-step ooh baby… ♪" />
+		<link href="css/svg.css" rel="stylesheet">
+		<link href="css/github-markdown.css" rel="stylesheet">
+		<script type="text/javascript" src="jss/jquery-3.6.0.min.js"></script>
+		<script type="text/javascript" src="jss/marked.min.js"></script>
+	</head>
+	<body>
+		<h1><span id="titles"></span>👣</h1>
+		<div id="content" class="markdown-body"></div>
+		<script>
+			var arses, subtit;
+			$.get('svg/pwa.svg', function(data){
+				$('#titles').html(data); 
+			}, 'html').done(function(){ 
+				//$('#pwapro').addClass('show');
+			}).fail(function(){ console.log('svg parse fail'); });
+			$.get('pre.md', function(data){
+				arses = marked.parse(data);
+				arses = arses.substr(arses.indexOf('<p>'));
+				subtit =	arses.substr(0,arses.indexOf('<h2>'));
+				console.log(subtit);
+				$('#content').html(arses.substr(arses.indexOf('<h2>'))); 
+			}, 'html').done(function(){ 
+				//$('#content').children().toArray()[2].innerText.indexOf
+			}).fail(function(){ console.log('md parse fail'); });
+		</script>
+	</body>
+</html>
