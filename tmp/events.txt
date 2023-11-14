@@ -1,0 +1,347 @@
+BeforeInstallPromptEvent
+	isTrusted: true
+	bubbles: false
+	cancelBubble: false
+	cancelable: true
+	composed: false
+	currentTarget: Window
+		$: ƒ (e,t)
+		Animation: ƒ lt(o,e,t)
+		prefilter: ƒ (e,t)
+		length: 2
+		name: "prefilter"
+		prototype: {constructor: ƒ}
+		arguments: (...)
+		caller: (...)
+		[[FunctionLocation]]: jquery-3.6.0.min.js:2
+		[[Prototype]]: ƒ ()
+		[[Scopes]]: Scopes[3]
+		prefilters: [ƒ]
+		tweener: ƒ (e,t)
+		tweeners: {*: Array(1)}
+		length: 3
+		name: "lt"
+		prototype: {constructor: ƒ}
+		arguments: (...)
+		caller: (...)
+		[[FunctionLocation]]: jquery-3.6.0.min.js:2
+		[[Prototype]]: ƒ ()
+		[[Scopes]]: Scopes[3]
+		Callbacks: ƒ (r)
+		Deferred: ƒ (e)
+		Event: ƒ (e,t)
+		Tween: ƒ Ke(e,t,n,r,i)
+		active: 0
+		ajax: ƒ (e,t)
+		ajaxPrefilter: ƒ (e,t)
+		ajaxSettings: {url: 'https://pwa.dev/', type: 'GET', isLocal: false, global: true, processData: true, …}
+		ajaxSetup: ƒ (e,t)
+		ajaxTransport: ƒ (e,t)
+		attr: ƒ (e,t,n)
+		attrHooks: {type: {…}}
+		camelCase: ƒ X(e)
+		cleanData: ƒ (e)
+		clone: ƒ (e,t,n)
+		contains: ƒ (e,t)
+		css: ƒ (e,t,n,r)
+		cssHooks: {opacity: {…}, height: {…}, width: {…}, marginLeft: {…}, margin: {…}, …}
+		cssNumber: {animationIterationCount: true, columnCount: true, fillOpacity: true, flexGrow: true, flexShrink: true, …}
+		cssProps: {}
+		data: ƒ (e,t,n)
+		dequeue: ƒ (e,t)
+		each: ƒ (e,t)
+		easing: {_default: 'swing', linear: ƒ, swing: ƒ}
+		error: ƒ (e)
+		escapeSelector: ƒ (e)
+		etag: {}
+		event: {global: {…}, add: ƒ, remove: ƒ, dispatch: ƒ, handlers: ƒ, …}
+		expando: "jQuery360006406424067312666"
+		expr: {cacheLength: 50, match: {…}, attrHandle: {…}, find: {…}, createPseudo: ƒ, …}
+		extend: ƒ ()
+		filter: ƒ (e,t,n)
+		find: ƒ se(t,e,n,r)
+		fn: Object [jquery: '3.6.0', constructor: ƒ, toArray: ƒ, get: ƒ, pushStack: ƒ, …]
+		fx: ƒ (e,t,n,r,i,o)
+		get: ƒ (e,t,n,r)
+		getJSON: ƒ (e,t,n)
+		getScript: ƒ (e,t)
+		globalEval: ƒ (e,t,n)
+		grep: ƒ (e,t,n)
+		guid: 3
+		hasData: ƒ (e)
+		holdReady: ƒ (e)
+		htmlPrefilter: ƒ (e)
+		inArray: ƒ (e,t,n)
+		isArray: ƒ isArray()
+		isEmptyObject: ƒ (e)
+		isFunction: ƒ (e)
+		isNumeric: ƒ (e)
+		isPlainObject: ƒ (e)
+		isReady: true
+		isWindow: ƒ (e)
+		isXMLDoc: ƒ (e)
+		lastModified: {}
+		makeArray: ƒ (e,t)
+		map: ƒ (e,t,n)
+		merge: ƒ (e,t)
+		noConflict: ƒ (e)
+		nodeName: ƒ A(e,t)
+		noop: ƒ ()
+		now: ƒ now()
+		offset: {setOffset: ƒ}
+		param: ƒ (e,t)
+		parseHTML: ƒ (e,t,n)
+		parseJSON: ƒ parse()
+		parseXML: ƒ (e)
+		post: ƒ (e,t,n,r)
+		prop: ƒ (e,t,n)
+		propFix: {for: 'htmlFor', class: 'className', tabindex: 'tabIndex', readonly: 'readOnly', maxlength: 'maxLength', …}
+		propHooks: {tabIndex: {…}}
+		proxy: ƒ (e,t)
+		queue: ƒ (e,t,n)
+		ready: ƒ (e)
+		readyException: ƒ (e)
+		readyWait: 0
+		removeAttr: ƒ (e,t)
+		removeData: ƒ (e,t)
+		removeEvent: ƒ (e,t,n)
+		speed: ƒ (e,t,n)
+		style: ƒ (e,t,n,r)
+		support: {checkClone: true, noCloneChecked: true, option: true, clearCloneStyle: true, boxSizingReliable: ƒ, …}
+		text: ƒ (e)
+		timers: []
+		trim: ƒ (e)
+		type: ƒ w(e)
+		unique: ƒ (e)
+		uniqueSort: ƒ (e)
+		valHooks: {option: {…}, select: {…}, radio: {…}, checkbox: {…}}
+		when: ƒ (e)
+		_data: ƒ (e,t,n)
+		_evalUrl: ƒ (e,t,n)
+		_queueHooks: ƒ (e,t)
+		_removeData: ƒ (e,t)
+		length: 2
+		name: "S"
+		prototype: Object [jquery: '3.6.0', constructor: ƒ, toArray: ƒ, get: ƒ, pushStack: ƒ, …]
+		arguments: (...)
+		caller: (...)
+		[[FunctionLocation]]: jquery-3.6.0.min.js:2
+		[[Prototype]]: ƒ ()
+		[[Scopes]]: Scopes[3]
+		alert: ƒ alert()
+		aniTit: ƒ aniTit()
+		anirun: false
+		arses: "<h2>1. Preparation</h2>\n<blockquote>\n<p>⚠ Before you continue, make sure you can afford a <strong>web server</strong> able to run in <strong>https</strong>.\nEven it only for testing in your local machine.\nOtherwise, <em>♪ say good night and go… ♪</em>, forget this PWA 💩.</p>\n</blockquote>\n<p>Place your <em>plain web site</em> files in a web server directory.<br>Test <code>https://your.site/</code>, make sure it runs properly before carry on.<br>Don&#39;t bother do an offline test, obviously won&#39;t work for now.  </p>\n<h2>2. Manifestation</h2>\n<p>📄 Create a new file named <code>manifest.json</code> and link it to your <code>index.html</code> in the <code>&lt;head&gt;</code> section.  </p>\n<pre><code class=\"language-html\">&lt;link rel=&quot;manifest&quot; href=&quot;manifest.json&quot;&gt;\n</code></pre>\n<p>📝 Edit <code>manifest.json</code>, write this template:   </p>\n<pre><code class=\"language-json\">{\n    &quot;name&quot;: &quot;Progressive Web Apps ♪ step-by-step ooh baby… ♪&quot;,\n    &quot;short_name&quot;: &quot;PWA 👣&quot;,\n    &quot;icons&quot;: [\n        {\n            &quot;src&quot;: &quot;/ass/ico36.png&quot;,\n            &quot;sizes&quot;: &quot;36x36&quot;,\n            &quot;type&quot;: &quot;image/png&quot;,\n            &quot;density&quot;: 0.75\n        },\n        {\n            &quot;src&quot;: &quot;/ass/ico48.png&quot;,\n            &quot;sizes&quot;: &quot;48x48&quot;,\n            &quot;type&quot;: &quot;image/png&quot;,\n            &quot;density&quot;: 1.0\n        },\n        {\n            &quot;src&quot;: &quot;/ass/ico72.png&quot;,\n            &quot;sizes&quot;: &quot;72x72&quot;,\n            &quot;type&quot;: &quot;image/png&quot;,\n            &quot;density&quot;: 1.5\n        },\n        {\n            &quot;src&quot;: &quot;/ass/ico96.png&quot;,\n            &quot;sizes&quot;: &quot;96x96&quot;,\n            &quot;type&quot;: &quot;image/png&quot;,\n            &quot;density&quot;: 2.0\n        },\n        {\n            &quot;src&quot;: &quot;/ass/ico144.png&quot;,\n            &quot;sizes&quot;: &quot;144x144&quot;,\n            &quot;type&quot;: &quot;image/png&quot;,\n            &quot;density&quot;: 3.0\n        },\n        {\n            &quot;src&quot;: &quot;/ass/ico384.png&quot;,\n            &quot;sizes&quot;: &quot;384x384&quot;,\n            &quot;type&quot;: &quot;image/png&quot;\n        }\n    ],\n    &quot;id&quot;: &quot;/&quot;,\n    &quot;start_url&quot;: &quot;/&quot;,\n    &quot;display&quot;: &quot;standalone&quot;\n}\n</code></pre>\n<blockquote>\n<p>As you can see above, we need to belatedly create those png images for your app shortcut icon.</p>\n</blockquote>\n<h4>iOS Compatibility</h4>\n<blockquote>\n<p>If you don&#39;t give a 💩 for iOS compatibility, skip this step.</p>\n</blockquote>\n<p>iOS does not use the icons from PWA manifest file, thus we need to create another series of png images as minimum as follow:</p>\n<pre><code class=\"language-html\">&lt;!-- iOS 💩 --&gt;\n&lt;link rel=&quot;apple-touch-icon&quot; href=&quot;ass/touch-icon-iphone.png&quot;&gt;\n&lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;152x152&quot; href=&quot;ass/touch-icon-ipad.png&quot;&gt;\n&lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;167x167&quot; href=&quot;ass/touch-icon-ipad-retina.png&quot;&gt;\n&lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;180x180&quot; href=&quot;ass/touch-icon-iphone-retina.png&quot;&gt;\n</code></pre>\n<p>place this code in the <code>&lt;head&gt;</code> section of your <code>index.html</code>  </p>\n<blockquote>\n<p>⚠ Avoid icons with transparency - those will not work.</p>\n</blockquote>\n<h2>3. Insemination</h2>\n<p>Now let the party begins! 🎉<br>Start with a magic spell written in Javascript as below:  </p>\n<pre><code class=\"language-js\">//The service worker file name &amp; location\nconst SVCWRK = &#39;svc.js&#39;;\n/* \nTo make your life easier, just put the service worker file in root dir.\nOtherwise, you might have to struggle more as described in the error log below: \nDOMException: Failed to register a ServiceWorker for scope (&#39;https://your.site/&#39;) \nwith script (&#39;https://your.site/ass/svc.js&#39;): \nThe path of the provided scope (&#39;/&#39;) \nis not under the max scope allowed (&#39;/ass/&#39;). \nAdjust the scope, move the Service Worker script, \nor use the Service-Worker-Allowed HTTP header to allow the scope.\n*/\n//Check first, whether the browser support &#39;navigator&#39;, otherwise, bye.\nif (&quot;serviceWorker&quot; in navigator) {\n    window.addEventListener(&quot;load&quot;, function() {\n        navigator.serviceWorker\n            .register(SVCWRK, { scope: &quot;/&quot; })\n            .then(res =&gt; console.log(&quot;service worker registered.. &quot;, res))\n            .catch(err =&gt; console.error(&quot;service worker not registered.. &quot;, err))\n    })\n}\n</code></pre>\n<p>place this code in the <code>&lt;body&gt;</code> section of your <code>index.html</code>  </p>\n<blockquote>\n<p>In this example, I put this in a separate file <code>jss/eek.js</code>.</p>\n</blockquote>\n<p>📄 Then create a new file for the <strong>service worker</strong> called by script above, <code>svc.js</code><br>📝 Edit it with this template:  </p>\n<pre><code class=\"language-js\">/* \nAny update on the site, change CHNAME below, \nso all caches will be replaced on &#39;activate&#39; handler\n*/\nconst CHNAME = &#39;pwa202310300241&#39;;\n// List all the required files/resources\n/* It&#39;s okay to have some files being forgotten, add them later. \nConsole log will tell you what file needed like below:\nFailed to load ‘https://your.site/manifest.json’. \nA ServiceWorker passed a promise to FetchEvent.respondWith() that rejected \nwith ‘TypeError: NetworkError when attempting to fetch resource.’. */\nconst ASSETS = [\n    &#39;./&#39;,\n    &#39;index.html&#39;,\n    &#39;favicon.ico&#39;,\n    &#39;README.md&#39;,\n    &#39;./css/github-markdown.css&#39;,\n    &#39;./css/ssc.css&#39;,\n    &#39;./jss/jquery-3.6.0.min.js&#39;,\n    &#39;./jss/marked.min.js&#39;,\n    &#39;./jss/eek.js&#39;\n];\n// The install handler takes care of precaching the resources\nself.addEventListener(&#39;install&#39;, (evt) =&gt; {\n    evt.waitUntil(\n        caches.open(CHNAME).then(cache =&gt; {\n            cache.addAll(ASSETS)\n        }).then(self.skipWaiting())\n    )\n});\n// The activate handler takes care of cleaning up old caches\nself.addEventListener(&quot;activate&quot;, (evt) =&gt; {\n    const CURCHC = [CHNAME];\n    evt.waitUntil(\n        caches.keys().then(keys =&gt; {\n            return keys.filter(key =&gt; !CURCHC.includes(key))\n        }).then(keys =&gt; {\n            return Promise.all(keys.map(key =&gt; {\n                return caches.delete(key)\n            }))\n        }).then(() =&gt; self.clients.claim())\n    )\n});\n// The fetch handler serves responses of resources from a cache\nself.addEventListener(&#39;fetch&#39;, (evt) =&gt; {\n    evt.respondWith(\n        caches.match(evt.request).then(res =&gt; {\n            return res || fetch(evt.request)\n        })\n    )\n});\n</code></pre>\n"
+		asses: "🤦‍♂️<pre>Ouch… It's not working this way. Please <b>run this site on a web server</b>.</pre>🦊<pre class=\"err\">⚠ Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at file:///…/README.md. (Reason: CORS request not http).</pre>🤬<pre class=\"war\">Why would it indiscriminately be blocked? First of all, it's a local file. By definition it's not even a remote file! Have you ever think of a better solution, like prompting user to allow/disallow this? Do you think all web users are dumb? This's just dumb!</pre>🤷‍♂️<pre>Well… I agree. But don't ask me. Ask your browser.</pre>🦊<pre class=\"err\">.</pre>😡<pre class=\"war\">I will just build my own browser then!</pre>🙎‍♂️<pre>My advice.. don't. You might only wasting your energy. Once it's launched, it would be banned anyway.</pre>"
+		atob: ƒ atob()
+		blur: ƒ blur()
+		btoa: ƒ btoa()
+		caches: CacheStorage {}
+		cancelAnimationFrame: ƒ cancelAnimationFrame()
+		cancelIdleCallback: ƒ cancelIdleCallback()
+		captureEvents: ƒ captureEvents()
+		chrome: {loadTimes: ƒ, csi: ƒ}
+		clearInterval: ƒ clearInterval()
+		clearTimeout: ƒ clearTimeout()
+		clientInformation: Navigator {vendorSub: '', productSub: '20030107', vendor: 'Google Inc.', maxTouchPoints: 0, userActivation: UserActivation, …}
+		close: ƒ close()
+		closed: false
+		confirm: ƒ confirm()
+		cookieStore: CookieStore {onchange: null}
+		createImageBitmap: ƒ createImageBitmap()
+		crossOriginIsolated: false
+		crypto: Crypto {subtle: SubtleCrypto}
+		customElements: CustomElementRegistry {}
+		defaultStatus: ""
+		defaultstatus: ""
+		devicePixelRatio: 1
+		document: document
+		external: External {}
+		fetch: ƒ fetch()
+		find: ƒ find()
+		focus: ƒ focus()
+		frameElement: null
+		frames: Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+		getComputedStyle: ƒ getComputedStyle()
+		getScreenDetails: ƒ getScreenDetails()
+		getSelection: ƒ getSelection()
+		history: History {length: 2, scrollRestoration: 'auto', state: null}
+		iOStog: ƒ iOStog()
+		indexedDB: IDBFactory {}
+		innerHeight: 626
+		innerWidth: 532
+		isSecureContext: true
+		jQuery: ƒ (e,t)
+		launchQueue: LaunchQueue {}
+		length: 0
+		localStorage: Storage {length: 0}
+		location: Location {ancestorOrigins: DOMStringList, href: 'https://pwa.dev/', origin: 'https://pwa.dev', protocol: 'https:', host: 'pwa.dev', …}
+		locationbar: BarProp {visible: true}
+		marked: {defaults: {…}, Hooks: ƒ, Lexer: ƒ, Marked: ƒ, Parser: ƒ, …}
+		matchMedia: ƒ matchMedia()
+		mdfile: "README.md"
+		menubar: BarProp {visible: true}
+		moveBy: ƒ moveBy()
+		moveTo: ƒ moveTo()
+		name: ""
+		navigation: Navigation {currentEntry: NavigationHistoryEntry, transition: null, canGoBack: false, canGoForward: false, onnavigate: null, …}
+		navigator: Navigator {vendorSub: '', productSub: '20030107', vendor: 'Google Inc.', maxTouchPoints: 0, userActivation: UserActivation, …}
+		onabort: null
+		onafterprint: null
+		onanimationend: null
+		onanimationiteration: null
+		onanimationstart: null
+		onappinstalled: null
+		onauxclick: null
+		onbeforeinstallprompt: null
+		onbeforematch: null
+		onbeforeprint: null
+		onbeforeunload: null
+		onbeforexrselect: null
+		onblur: null
+		oncancel: null
+		oncanplay: null
+		oncanplaythrough: null
+		onchange: null
+		onclick: null
+		onclose: null
+		oncontextlost: null
+		oncontextmenu: null
+		oncontextrestored: null
+		oncuechange: null
+		ondblclick: null
+		ondevicemotion: null
+		ondeviceorientation: null
+		ondeviceorientationabsolute: null
+		ondrag: null
+		ondragend: null
+		ondragenter: null
+		ondragleave: null
+		ondragover: null
+		ondragstart: null
+		ondrop: null
+		ondurationchange: null
+		onemptied: null
+		onended: null
+		onerror: null
+		onfocus: null
+		onformdata: null
+		ongotpointercapture: null
+		onhashchange: null
+		oninput: null
+		oninvalid: null
+		onkeydown: null
+		onkeypress: null
+		onkeyup: null
+		onlanguagechange: null
+		onload: null
+		onloadeddata: null
+		onloadedmetadata: null
+		onloadstart: null
+		onlostpointercapture: null
+		onmessage: null
+		onmessageerror: null
+		onmousedown: null
+		onmouseenter: null
+		onmouseleave: null
+		onmousemove: null
+		onmouseout: null
+		onmouseover: null
+		onmouseup: null
+		onmousewheel: null
+		onoffline: null
+		ononline: null
+		onpagehide: null
+		onpageshow: null
+		onpause: null
+		onplay: null
+		onplaying: null
+		onpointercancel: null
+		onpointerdown: null
+		onpointerenter: null
+		onpointerleave: null
+		onpointermove: null
+		onpointerout: null
+		onpointerover: null
+		onpointerrawupdate: null
+		onpointerup: null
+		onpopstate: null
+		onprogress: null
+		onratechange: null
+		onrejectionhandled: null
+		onreset: null
+		onresize: null
+		onscroll: null
+		onsearch: null
+		onsecuritypolicyviolation: null
+		onseeked: null
+		onseeking: null
+		onselect: null
+		onselectionchange: null
+		onselectstart: null
+		onslotchange: null
+		onstalled: null
+		onstorage: null
+		onsubmit: null
+		onsuspend: null
+		ontimeupdate: null
+		ontoggle: null
+		ontransitioncancel: null
+		ontransitionend: null
+		ontransitionrun: null
+		ontransitionstart: null
+		onunhandledrejection: null
+		onunload: null
+		onvolumechange: null
+		onwaiting: null
+		onwebkitanimationend: null
+		onwebkitanimationiteration: null
+		onwebkitanimationstart: null
+		onwebkittransitionend: null
+		onwheel: null
+		open: ƒ open()
+		openDatabase: ƒ openDatabase()
+		opener: null
+		origin: "https://pwa.dev"
+		originAgentCluster: false
+		outerHeight: 714
+		outerWidth: 1049
+		pageXOffset: 0
+		pageYOffset: 0
+		parent: Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+		performance: Performance {timeOrigin: 1699328392877.2, onresourcetimingbufferfull: null, timing: PerformanceTiming, navigation: PerformanceNavigation, memory: MemoryInfo, …}
+		personalbar: BarProp {visible: true}
+		postMessage: ƒ postMessage()
+		print: ƒ print()
+		prompt: ƒ prompt()
+		length: 0
+		name: "prompt"
+		arguments: (...)
+		caller: (...)
+		[[Prototype]]: ƒ ()
+		[[Scopes]]: Scopes[0]
+		queueMicrotask: ƒ queueMicrotask()
+		releaseEvents: ƒ releaseEvents()
+		reportError: ƒ reportError()
+		requestAnimationFrame: ƒ requestAnimationFrame()
+		requestIdleCallback: ƒ requestIdleCallback()
+		resizeBy: ƒ resizeBy()
+		resizeTo: ƒ resizeTo()
+		scheduler: Scheduler {}
+		screen: Screen {availWidth: 1360, availHeight: 728, width: 1360, height: 768, colorDepth: 24, …}
+		screenLeft: 259
+		screenTop: 18
+		screenX: 259
+		screenY: 18
+		(...)
+	defaultPrevented: false
+	eventPhase: 0
+	path: [Window]
+	platforms: ['web']
+	returnValue: true
+	srcElement: Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+	target: Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+	timeStamp: 287.09999999403954
+	type: "beforeinstallprompt"
+	userChoice: Promise {<pending>}
+	[[Prototype]]: BeforeInstallPromptEvent

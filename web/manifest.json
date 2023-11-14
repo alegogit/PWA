@@ -1,0 +1,51 @@
+{
+	"name": "Progressive Web Apps ♪ step-by-step ooh baby… ♪",
+	"short_name": "PWA 👣",
+	"description": "Cheatsheet/templates/whatever that will help building PWA",
+	"icons": [
+		{
+			"src": "/ass/ico36.png",
+			"sizes": "36x36",
+			"type": "image/png",
+			"density": 0.75
+		},
+		{
+			"src": "/ass/ico48.png",
+			"sizes": "48x48",
+			"type": "image/png",
+			"density": 1.0
+		},
+		{
+			"src": "/ass/ico72.png",
+			"sizes": "72x72",
+			"type": "image/png",
+			"density": 1.5
+		},
+		{
+			"src": "/ass/ico96.png",
+			"sizes": "96x96",
+			"type": "image/png",
+			"density": 2.0
+		},
+		{
+			"src": "/ass/ico144.png",
+			"sizes": "144x144",
+			"type": "image/png",
+			"density": 3.0
+		},
+		{
+			"src": "/ass/ico384.png",
+			"sizes": "384x384",
+			"type": "image/png"
+		}
+	],
+	"id": "/",
+	"start_url": "/",
+	"display": "standalone",
+	"screenshots": [{
+		"src": "/ass/ico384.png",
+		"sizes": "384x384",
+		"form_factor": "wide",
+		"label": "Cheatsheet/templates/whatever that will help building PWA"
+		}]
+}
