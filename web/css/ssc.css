@@ -54,18 +54,6 @@ h3 { margin: 0 auto; }
 	margin: 0 126px;
 	padding: 36px;
  }
- @media (max-width: 767px) { 
-	#toc { width: 21px; }
-	#ult { display: none; }
-	#uli { display: inline; }
-	.markdown-body { padding: 15px; margin: 0 18px; }
-}
-@media (prefers-color-scheme: light) {
-	pre {
-		background: #e3dcef;
-		color: #4a2b7b;
-	}
-}
 pre {
 	padding: 9px;
 	border: 1px solid #efefef;
@@ -79,7 +67,40 @@ pre.war {
 	background: #FDFFDF;
 	color: #555402;
 }
+#github {
+	right: 0;
+	bottom: 0;
+	z-index: 99;
+	margin: 9px 9px 6px 9px;
+	position: fixed;
+}
+#gitlnk { 
+	color: var(--color-accent-fg);
+	text-decoration: none;
+	text-align: center;
+	font-size: 0.9em;
+	display: inline-flex;
+}
+#gitsvg {
+	width: 63px; 
+	height: 63px;
+	border-radius: 50%; 
+	background-color: floralwhite;
+}
+@media (max-width: 767px) { 
+	#toc { width: 21px; }
+	#ult { display: none; }
+	#uli { display: inline; }
+	.markdown-body { padding: 15px; margin: 0 18px; }
+}
+@media (prefers-color-scheme: light) {
+	pre {
+		background: #e3dcef;
+		color: #4a2b7b;
+	}
+}
 @media print {
 	#titcon { position: absolute; }
+	#github { position: relative; }
 	#toc { display: none; }
 }
