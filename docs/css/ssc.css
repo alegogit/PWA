@@ -1,3 +1,7 @@
+html {
+	scroll-behavior: smooth; 
+	scroll-padding-top: 63px;
+}
 body {
 	color: var(--color-fg-default);
 	background-color: var(--color-canvas-default);
