@@ -2,7 +2,7 @@
 Any update on the site, change CHNAME below, 
 so all caches will be replaced on 'activate' handler
 */
-const CHNAME = 'pwa202312051227';
+const CHNAME = 'pwa202401120636';
 // List all the required files/resources
 /* It's okay to have some files being forgotten, add them later. 
 Console log will tell you what file needed like below:

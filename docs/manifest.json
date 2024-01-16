@@ -39,8 +39,8 @@
 			"type": "image/png"
 		}
 	],
-	"id": "/",
-	"start_url": "/",
+	"id": "https://alegogit.github.io/PWA/",
+	"start_url": "https://alegogit.github.io/PWA/",
 	"display": "standalone",
 	"screenshots": [{
 		"src": "/ass/ico384.png",

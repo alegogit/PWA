@@ -62,7 +62,9 @@ Don't bother do an offline test, obviously won't work for now.
 	"display": "standalone"
 }
 ```  
-> As you can see above, we need to belatedly create those png images for your app shortcut icon.
+> ℹ As you can see above, we need to belatedly create those png images for your app shortcut icon.  
+
+> 🅾 It is safer to define the whole url for **id** and **start_url** especially if your PWA under a sub dir, e.g. ```"start_url": "https://alegogit.github.io/PWA/"```.  
 
 #### iOS Compatibility
 > If you don't give a 💩 for iOS compatibility, skip this step.
@@ -160,3 +162,5 @@ self.addEventListener('fetch', (evt) => {
 	)
 });
 ```
+
+**👌 That's all**
